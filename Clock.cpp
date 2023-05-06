@@ -11,3 +11,4 @@ int main()
 				system("clear");
 			}
 	}
+// replace system("clear") with system("cls") on windows.
